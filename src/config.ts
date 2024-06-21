@@ -1,10 +1,10 @@
 /** Website 分类配置 */
 const WEBSITE_SORTS: WebsiteSort[] = [
   {
-    title: "示例分类1",
+    title: "dockerhub",
     sites: [
       {
-        title: "主标题",
+        title: "US1",
         url: "http://www.your-web-page.com/",
         icon: "",
         color: "#0171CD",
