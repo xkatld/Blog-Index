@@ -13,7 +13,7 @@ defineProps<{
     <div class="website-item__info">
       <div class="title">{{ item.title }}</div>
       <div class="description">
-        {{ item.description || `网站链接: ${item.url}` }}
+        {{ item.description || `链接: ${item.url}` }}
       </div>
     </div>
     <div
