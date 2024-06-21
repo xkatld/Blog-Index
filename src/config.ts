@@ -24,22 +24,10 @@ const WEBSITE_SORTS: WebsiteSort[] = [
     ],
   },
   {
-    title: "示例分类2",
-  },
-  {
-    title: "示例分类3",
-  },
-  {
-    title: "示例分类4",
-  },
-  {
-    title: "示例分类5",
-  },
-  {
     title: "友情链接",
     sites: [
       {
-        title: "EsunR Blog",
+        title: "智识集市",
         description: "EsunR 的博客",
         url: "https://www.esunr.xyz",
         icon: "https://esunr-image-bed.oss-cn-beijing.aliyuncs.com/logo.jpg",
